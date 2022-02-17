@@ -1,0 +1,12 @@
+index,Men,Women
+Heart Disease,0.246,0.229
+Cancer,0.241,0.218
+Unintentional Injuries,0.063,0.037
+Respiratory,0.054,0.06
+Stroke,0.042,0.061
+Diabetes,0.031,0.028
+Suicide,0.025,0
+Alzheimer,0.02,0.047
+Flu & Pneumonia,0.02,0.023
+Kidney Disease,0.018,0.018
+Septicemia,0,0.015
