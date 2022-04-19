@@ -1,4 +1,4 @@
-</center><img src="https://www3.um.edu.uy/logoum.jpg" width=300></center>
+<div style="text-align:center"><img src="https://www3.um.edu.uy/logoum.jpg" width=300></div>
 <h1 align="center">Introducción a la Ciencia de Datos</h1>
 <h2 align="center"> <font color='gray'>Universidad de Montevideo</font></h2>
 
